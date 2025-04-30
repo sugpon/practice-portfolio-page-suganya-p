@@ -1,0 +1,20 @@
+
+MY PORTFOLIO
+
+HEADER    
+    - Title of website: Suganya Ponnusamy Portfolio
+    - Author: Suganya Ponnusamy
+
+ARTICLE
+    SECTION 1:
+        About me
+
+    SECTION 2: 
+        Skills Table
+
+    SECTION 3:
+        Contact form
+   
+FOOTER
+    - Copyright statement
+    
