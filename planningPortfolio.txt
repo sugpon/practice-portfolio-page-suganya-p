@@ -2,7 +2,7 @@
 MY PORTFOLIO
 
 HEADER    
-    - Title of website: Suganya Ponnusamy Portfolio
+    - Title of website: My Portfolio
     - Author: Suganya Ponnusamy
 
 ARTICLE

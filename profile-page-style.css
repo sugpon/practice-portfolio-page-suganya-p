@@ -1,0 +1,46 @@
+html{
+  background-color: #c2663c46;
+}
+
+h1{
+        text-align: left;
+        color: #605e74;
+        font-family:'Lucida Sans';
+}
+
+.container{
+    font-family: 'Franklin Gothic Medium';
+    color:#78927a;
+}
+
+#contact-info{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#92788e;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.text-center{
+    text-align: center;
+}
+
+img{
+    border-radius: 60%;
+    width: 150px;
+    height: 200px;
+}
+
+ul{
+    text-align: left;
+    font-family:'Trebuchet MS';
+}
+
+.text-justify{
+    text-align: justify;
+}
